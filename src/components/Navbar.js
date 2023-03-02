@@ -18,6 +18,7 @@ const Navbar = () => {
         >
           <Typography variant="h5">HVG</Typography>
           <Box>
+            <Link to="/">Home</Link>
             <Link to="/workshop">Workshop</Link>
             <Link to="/technical">Technical</Link>
             <Link to="/nontechnical">Non Technical</Link>
